@@ -8,7 +8,7 @@
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues </a>, <a href="https://www.linkedin.com/in/emilly-assistente-administrativo/">Emilly Mickeli</a>, <a href="https://www.linkedin.com/in/giovane-estevan-a22006253/">Giovane Estevan</a>, <a href="https://www.linkedin.com/in/vin%C3%ADcius-teixeira-538661232/">Vinicius Teixeira</a>, <a href="https://www.linkedin.com/in/kau%C3%AA-dantas-309098271/">Kaue Dantas</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
