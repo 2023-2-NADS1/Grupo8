@@ -15,16 +15,16 @@
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Grupo Inovação" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+O projeto Sistema de Irrigação Automática tem como objetivo desenvolver um sistema de irrigação
+altamente eficiente e personalizável que utiliza tecnologias de IoT (Internet das Coisas) para
+automatizar o processo de fornecimento de água às plantas. O sistema é projetado para atender às
+necessidades específicas de irrigação de um jardim, canteiros de plantas, hortas ou campos
+agrícolas, garantindo a saúde das plantas enquanto economiza recursos hídricos.
 <br><br>
 
 ## 🛠 Estrutura de pastas
