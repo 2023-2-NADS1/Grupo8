@@ -9,7 +9,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues </a>, <a href="https://www.linkedin.com/in/emilly-assistente-administrativo/">Emilly Mickeli</a>, <a href="https://www.linkedin.com/in/giovane-estevan-a22006253/">Giovane Estevan</a>, <a href="https://www.linkedin.com/in/vin%C3%ADcius-teixeira-538661232/">Vinicius Teixeira</a> e <a href="https://www.linkedin.com/in/kau%C3%AA-dantas-309098271/">Kaue Dantas</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-buesso-jr-15462234/">José Carlos e <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Valente</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-buesso-jr-15462234/">José Carlos</a> e <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Valente</a>
 
 ## Descrição
 
