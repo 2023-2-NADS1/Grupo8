@@ -19,11 +19,7 @@
 </p>
 
 
-O projeto Sistema de Irrigação Automática tem como objetivo desenvolver um sistema de irrigação
-altamente eficiente e personalizável que utiliza tecnologias de IoT (Internet das Coisas) para
-automatizar o processo de fornecimento de água às plantas. O sistema é projetado para atender às
-necessidades específicas de irrigação de um jardim, canteiros de plantas, hortas ou campos
-agrícolas, garantindo a saúde das plantas enquanto economiza recursos hídricos.
+O projeto "Sistema de Irrigação Automática" tem como objetivo desenvolver um sistema altamente eficiente e personalizável que utilize tecnologias de IoT (Internet das Coisas) para automatizar o fornecimento de água às plantas. Esse sistema é projetado para atender às necessidades específicas de irrigação de jardins, canteiros de plantas, hortas ou campos agrícolas, garantindo a saúde das plantas e economizando recursos hídricos.
 <br><br>
 
 ## 🛠 Estrutura de pastas
