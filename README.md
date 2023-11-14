@@ -4,11 +4,12 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Irrigação Automática
+
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues </a>, <a href="https://www.linkedin.com/in/emilly-assistente-administrativo/">Emilly Mickeli</a>, <a href="https://www.linkedin.com/in/giovane-estevan-a22006253/">Giovane Estevan</a>, <a href="https://www.linkedin.com/in/vin%C3%ADcius-teixeira-538661232/">Vinicius Teixeira</a>, <a href="https://www.linkedin.com/in/kau%C3%AA-dantas-309098271/">Kaue Dantas</a>
+## Integrantes: <a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues </a>, <a href="https://www.linkedin.com/in/emilly-assistente-administrativo/">Emilly Mickeli</a>, <a href="https://www.linkedin.com/in/giovane-estevan-a22006253/">Giovane Estevan</a>, <a href="https://www.linkedin.com/in/vin%C3%ADcius-teixeira-538661232/">Vinicius Teixeira</a> e <a href="https://www.linkedin.com/in/kau%C3%AA-dantas-309098271/">Kaue Dantas</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-buesso-jr-15462234/">José Carlos, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Valente</a>
 
@@ -16,7 +17,7 @@
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Grupo Inovação" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license"<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc :attributionURL" href="https://github.com/2023-2-NADS1/Grupo8">Irrigação Automática </a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href ="https://github.com/2023-2-NADS1/Grupo8">Guilherme Rodrigues, Emilly Mickeli, Giovane Estevan, Kaue Dantas e Vinicius Teixeira</a> está licenciado sob <a href="http://creativecommons .org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px !importante;margem esquerda:3px;alinhamento vertical:texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text -fundo;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license"<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc :attributionURL" href="https://github.com/2023-2-NADS1/Grupo8">Irrigação Automática </a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href ="https://github.com/2023-2-NADS1/Grupo8">Guilherme Rodrigues, Emilly Mickeli, Giovane Estevan, Kaue Dantas e Vinicius Teixeira</a> está licenciado sob <a href="http://creativecommons .org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px !importante;margem esquerda:3px;alinhamento vertical:texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text -fundo;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
 </p>
 
 
