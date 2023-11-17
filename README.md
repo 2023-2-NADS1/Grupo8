@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Sistema de Irrigação Automática
+# Sistema de Irrigação Automática 🌱
 
 
 ## Integrantes: <a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7/">Guilherme Rodrigues </a>, <a href="https://www.linkedin.com/in/emilly-assistente-administrativo/">Emilly Mickeli</a>, <a href="https://www.linkedin.com/in/giovane-estevan-a22006253/">Giovane Estevan</a>, <a href="https://www.linkedin.com/in/vin%C3%ADcius-teixeira-538661232/">Vinicius Teixeira</a> e <a href="https://www.linkedin.com/in/kau%C3%AA-dantas-309098271/">Kaue Dantas</a>
