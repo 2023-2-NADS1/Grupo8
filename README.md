@@ -118,7 +118,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 ## 🎓 Referências
 
-Aqui estão as referências usadas no projeto.
+Aqui estão as referências usadas no projeto:
 
 1. <https://www.usinainfo.com.br/blog/projeto-arduino-de-irrigacao-automatica-sua-planta-sempre-bem-cuidada/>
 2. <https://www.youtube.com/watch?v=_xRyePvaMqU>
