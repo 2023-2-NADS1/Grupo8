@@ -15,7 +15,7 @@
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Grupo Inovação" border="0">
-<a rel="license"<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc :attributionURL" href="https://github.com/2023-2-NADS1/Grupo8">Irrigação Automática </a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href ="https://github.com/2023-2-NADS1/Grupo8">Guilherme Rodrigues, Emilly Mickeli, Giovane Estevan, Kaue Dantas e Vinicius Teixeira</a> está licenciado sob <a href="http://creativecommons .org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px !importante;margem esquerda:3px;alinhamento vertical:texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text -fundo;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
+<a rel="license"<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc :attributionURL" href="https://github.com/2023-2-NADS1/Grupo8">Irrigação Automática </a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href ="https://github.com/2023-2-NADS1/Grupo8">Guilherme Rodrigues, Emilly Mickeli, Giovane Estevan, Kaue Dantas e Vinicius Teixeira</a> está licenciado sob <a href="http://creativecommons .org/licenses/by/4.0/?ref=chooser-v1" 
 </p>
 
 
@@ -111,6 +111,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 ## 📋 Licença/License
 
+<https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1>
 
 ## 🎓 Referências
 
