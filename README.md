@@ -17,7 +17,7 @@
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-buesso-jr-15462234/">José Carlos</a> e <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Valente</a>
 
 
-Sistema de Irrigação Automática is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1">CC BY-SA 4.0
+Sistema de Irrigação Automática by Guilherme Rodrigues, Emilly Mickeli, Giovane Estevan, Vinicius Teixeira e Kaue Dantas is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">CC BY 4.0 
 </p>
 
 ## Descrição
