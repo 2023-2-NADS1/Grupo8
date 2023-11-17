@@ -20,6 +20,11 @@
 
 
 O projeto "Sistema de Irrigação Automática" tem como objetivo desenvolver um sistema altamente eficiente e personalizável que utilize tecnologias de IoT (Internet das Coisas) para automatizar o fornecimento de água às plantas. Esse sistema é projetado para atender às necessidades específicas de irrigação de jardins, canteiros de plantas, hortas ou campos agrícolas, garantindo a saúde das plantas e economizando recursos hídricos. O intuito desse projeto é promover o uso responsável da água, evitando irrigações excessivas, que podem ser prejudiciais ao meio ambiente.
+Mais especificamente, ele auxiliaria:
+
+ Agricultores e produtores agrícolas que desejam automatizar o processo de irrigação em suas fazendas e campos agrícolas, permitindo a otimização do uso de água, a economia de recursos e a melhoria da produtividade.
+ Proprietários de residências que possuem jardins, canteiros de plantas, gramados e hortas em suas propriedades, possibilitando a automação da irrigação das plantas, garantindo que elas recebam a quantidade adequada de água, mesmo quando estão ausentes.
+ Jardineiros profissionais, paisagistas e horticultores que podem utilizar o projeto para oferecer serviços de irrigação automática eficiente aos seus clientes, assegurando que as plantas estejam saudáveis e bem cuidadas.
 <br><br>
 
 ## 🛠 Estrutura de pastas
