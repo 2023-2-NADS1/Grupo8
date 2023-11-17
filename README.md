@@ -114,7 +114,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 ## 📋 Licença/License
 
-<https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1>
+<https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1>
 
 ## 🎓 Referências
 
