@@ -13,9 +13,7 @@
 
 ## Descrição
 
-<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Grupo Inovação" border="0">
-<a rel="license"<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc :attributionURL" href="https://github.com/2023-2-NADS1/Grupo8">Irrigação Automática </a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href ="https://github.com/2023-2-NADS1/Grupo8">Guilherme Rodrigues, Emilly Mickeli, Giovane Estevan, Kaue Dantas e Vinicius Teixeira</a> está licenciado sob <a href="http://creativecommons .org/licenses/by/4.0/?ref=chooser-v1" 
+Sistema de Irrigação Automática © 2 by Emilly Mickeli, Guilherme Rodrigues, Kaue Dantas, Giovane Estevan e Vinicius Teixeira is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1">CC BY-SA 4.0" 
 </p>
 
 
