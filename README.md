@@ -11,11 +11,11 @@
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-buesso-jr-15462234/">José Carlos</a> e <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Valente</a>
 
-## Descrição
 
-Sistema de Irrigação Automática © 2 by Emilly Mickeli, Guilherme Rodrigues, Kaue Dantas, Giovane Estevan e Vinicius Teixeira is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1">CC BY-SA 4.0" 
+Sistema de Irrigação Automática is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1">CC BY-SA 4.0" 
 </p>
 
+## Descrição
 
 O projeto "Sistema de Irrigação Automática" tem como objetivo desenvolver um sistema altamente eficiente e personalizável que utilize tecnologias de IoT (Internet das Coisas) para automatizar o fornecimento de água às plantas. Esse sistema é projetado para atender às necessidades específicas de irrigação de jardins, canteiros de plantas, hortas ou campos agrícolas, garantindo a saúde das plantas e economizando recursos hídricos. O intuito desse projeto é promover o uso responsável da água, evitando irrigações excessivas, que podem ser prejudiciais ao meio ambiente.
 <br><br>
