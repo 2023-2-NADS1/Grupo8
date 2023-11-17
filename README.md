@@ -7,7 +7,6 @@
 # Sistema de Irrigação Automática 🌱
 
 </p>
-
 # Inovação
 
 </p>
