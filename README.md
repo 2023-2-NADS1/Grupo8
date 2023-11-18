@@ -58,23 +58,23 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Equipamentos Utilizados no Projeto Arduino de Irrigação:
 
-– 1 Arduino Uno R3 + Cabo USB;
+– 1 Arduino Uno R3 + Cabo USB.
 </p>
-– 1 Sensor de Umidade de Solo para Arduino;
+– 1 Sensor de Umidade de Solo para Arduino.
 </p>
-– 1 Mini Bomba de Água (d’água) para Arduino RS-385;
+– 1 Mini Bomba de Água (d’água) para Arduino RS-385.
 </p>
-– 1 Módulo Relé 5V 10A 1 Canal com Optoacoplador;
+– 1 Módulo Relé 5V 10A 1 Canal com Optoacoplador.
 </p>
-– 1 Fonte de Alimentação Chaveada 12VDC 1A;
+– 1 Fonte de Alimentação Chaveada 12VDC 1A.
 </p>
-– 1 Fonte de Alimentação para Arduino 9VDC 1A;
+– 1 Fonte de Alimentação para Arduino 9VDC 1A.
 </p>
-– 1 Adaptador Fêmea com Bornes para plug P4 (2,1×5,5mm);
+– 1 Adaptador Fêmea com Bornes para plug P4 (2,1×5,5mm).
 </p>
-– ½ Metro de Fio Paralelo 0,5mm;
+– ½ Metro de Fio Paralelo 0,5mm.
 </p>
-– 1,5 Metros de Mangueira para Aquário;
+– 1,5 Metros de Mangueira para Aquário.
 </p>
 – Jumpers.
 
@@ -86,6 +86,7 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 
 * <a href="https://www.arduino.cc/en/software"> Arduino IDE
 * <a href="https://www.tinkercad.com/"> Tinkercad
+* <a href="https://web.telegram.org/a/"> Telegram
 
 ## 🗃 Histórico de lançamentos
 
