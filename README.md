@@ -56,30 +56,20 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
-## 🛠 Instalação
+## 🛠 Equipamentos Utilizados no Projeto Arduino de Irrigação:
 
-<b>Android:</b>
+– 1 Arduino Uno R3 + Cabo USB;
+– 1 Sensor de Umidade de Solo para Arduino;
+– 1 Mini Bomba de Água (d’água) para Arduino RS-385;
+– 1 Módulo Relé 5V 10A 1 Canal com Optoacoplador;
+– 1 Fonte de Alimentação Chaveada 12VDC 1A;
+– 1 Fonte de Alimentação para Arduino 9VDC 1A;
+– 1 Adaptador Fêmea com Bornes para plug P4 (2,1×5,5mm);
+– ½ Metro de Fio Paralelo 0,5mm;
+– 1,5 Metros de Mangueira para Aquário;
+– Jumpers.
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
