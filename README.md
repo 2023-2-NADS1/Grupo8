@@ -20,7 +20,7 @@
 Sistema de Irrigação Automática by Guilherme Rodrigues, Emilly Mickeli, Giovane Estevan, Vinicius Teixeira e Kaue Dantas is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">CC BY 4.0 
 </p>
 
-## Descrição
+## Descrição:
 
 O projeto "Sistema de Irrigação Automática" tem como objetivo desenvolver um sistema altamente eficiente e personalizável que utilize tecnologias de IoT (Internet das Coisas) para automatizar o fornecimento de água às plantas. Esse sistema é projetado para atender às necessidades específicas de irrigação de jardins, canteiros de plantas, hortas ou campos agrícolas, garantindo a saúde das plantas e economizando recursos hídricos. O intuito desse projeto é promover o uso responsável da água, evitando irrigações excessivas, que podem ser prejudiciais ao meio ambiente.
 <br><br>
@@ -70,7 +70,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 
 
-## 💻 Configuração para Desenvolvimento
+## 💻 Configuração para Desenvolvimento:
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
@@ -79,7 +79,7 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 * <a href="https://web.telegram.org/a/"> Telegram
 * <a href="https://blynk.io/"> Blynk
 
-## 🗃 Histórico de lançamentos
+## 🗃 Histórico de lançamentos:
 * 0.3.0 - 17/11/2023
     * Finalização do Projeto
 * 0.2.1 - 16/11/2023
