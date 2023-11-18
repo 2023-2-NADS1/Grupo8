@@ -62,7 +62,7 @@ Há também 4 pastas que seguem da seguinte forma:
 </p>
 –<a href="https://www.usinainfo.com.br/sensor-de-solo/sensor-de-umidade-de-solo-hl-69-para-arduino-2311.html"> Sensor de Umidade de Solo para Arduino.
 </p>
-–<a href="https://www.usinainfo.com.br/bombinha-de-agua-e-ar/mini-bomba-de-agua-para-arduino-12v-rs385-2lmin-2814.html1"> Mini Bomba de Água (d’água) para Arduino RS-385.
+–<a href="https://www.usinainfo.com.br/bombinha-de-agua-e-ar/mini-bomba-de-agua-para-arduino-12v-rs385-2lmin-2814.html"> Mini Bomba de Água (d’água) para Arduino RS-385.
 </p>
 –<a href="https://www.usinainfo.com.br/rele-arduino/modulo-rele-5v-10a-1-canal-com-optoacoplador-para-esp32-e-arduino-2533.html1"> Módulo Relé 5V 10A 1 Canal com Optoacoplador.
 </p>
