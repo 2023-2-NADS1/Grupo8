@@ -86,13 +86,7 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 Para abrir este projeto você necessita das seguintes ferramentas:
 
 * <a href="https://www.arduino.cc/en/software"> Arduino IDE
-
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+* <a href="https://www.tinkercad.com/"> Tinkercad
 
 ## 🗃 Histórico de lançamentos
 
