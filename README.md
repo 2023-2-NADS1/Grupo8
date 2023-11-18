@@ -58,7 +58,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Equipamentos Utilizados no Projeto de Irrigação:
 
-* <a href="https://www.usinainfo.com.br/placas-arduino/placa-uno-r3-arduino-cabo-usb-3513.html"> 1 Arduino Uno R3 + Cabo USB.
+* <a href="https://www.usinainfo.com.br/cabo-flexivel/cabo-flexivel-paralelo-1m-2x050mm2-20-awg-6063.html"> Cabo Flexível Paralelo.
 * <a href="https://www.usinainfo.com.br/sensor-de-solo/sensor-de-umidade-de-solo-hl-69-para-arduino-2311.html"> Sensor de Umidade de Solo para Arduino.
 * <a href="https://www.usinainfo.com.br/bombinha-de-agua-e-ar/mini-bomba-de-agua-para-arduino-12v-rs385-2lmin-2814.html"> Mini Bomba de Água (d’água) para Arduino RS-385.
 * <a href="https://www.usinainfo.com.br/rele-arduino/modulo-rele-5v-10a-1-canal-com-optoacoplador-para-esp32-e-arduino-2533.html"> Módulo Relé 5V 10A 1 Canal com Optoacoplador.
