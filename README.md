@@ -77,6 +77,7 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 * <a href="https://www.arduino.cc/en/software"> Arduino IDE
 * <a href="https://www.tinkercad.com/"> Tinkercad
 * <a href="https://web.telegram.org/a/"> Telegram
+* <a href="https://blynk.io/"> Blynk
 
 ## 🗃 Histórico de lançamentos
 
