@@ -59,25 +59,15 @@ Há também 4 pastas que seguem da seguinte forma:
 ## 🛠 Equipamentos Utilizados no Projeto de Irrigação:
 
 * <a href="https://www.usinainfo.com.br/placas-arduino/placa-uno-r3-arduino-cabo-usb-3513.html"> 1 Arduino Uno R3 + Cabo USB.
-* </p>
 * <a href="https://www.usinainfo.com.br/sensor-de-solo/sensor-de-umidade-de-solo-hl-69-para-arduino-2311.html"> Sensor de Umidade de Solo para Arduino.
-</p>
-</p>
 * <a href="https://www.usinainfo.com.br/bombinha-de-agua-e-ar/mini-bomba-de-agua-para-arduino-12v-rs385-2lmin-2814.html"> Mini Bomba de Água (d’água) para Arduino RS-385.
-</p>
 * <a href="https://www.usinainfo.com.br/rele-arduino/modulo-rele-5v-10a-1-canal-com-optoacoplador-para-esp32-e-arduino-2533.html"> Módulo Relé 5V 10A 1 Canal com Optoacoplador.
-</p>
 * <a href="https://www.usinainfo.com.br/fonte-chaveada-usb-e-p4/fonte-de-alimentacao-chaveada-12vdc-1a-plug-p4-3082.html"> Fonte de Alimentação Chaveada 12VDC 1A.
-</p>
 * <a href="https://www.usinainfo.com.br/fonte-chaveada-usb-e-p4/fonte-de-alimentacao-para-arduino-9vdc-1a-plug-p4-2424.html"> 1 Fonte de Alimentação para Arduino 9VDC 1A.
-</p>
 * <a href="https://www.usinainfo.com.br/conectores-e-adaptadores/jack-p4-femea-com-borne-a-parafuso-21x55mm-2843.html"> Adaptador Fêmea com Bornes para plug P4 (2,1×5,5mm).
-</p>
 * ½ Metro de Fio Paralelo 0,5mm.
-</p>
-* 1,5 Metros de Mangueira para Aquário.
-</p>
-* <a href="https://www.usinainfo.com.br/jumper/mix-de-jumpers-premium-sortidos-20cm-kit-com-15-pecas-6066.html"> Jumpers.
+*  1,5 Metros de Mangueira para Aquário.
+*  <a href="https://www.usinainfo.com.br/jumper/mix-de-jumpers-premium-sortidos-20cm-kit-com-15-pecas-6066.html"> Jumpers.
 
 
 
