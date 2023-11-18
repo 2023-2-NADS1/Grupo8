@@ -61,13 +61,21 @@ Há também 4 pastas que seguem da seguinte forma:
 – 1 Arduino Uno R3 + Cabo USB;
 </p>
 – 1 Sensor de Umidade de Solo para Arduino;
+</p>
 – 1 Mini Bomba de Água (d’água) para Arduino RS-385;
+</p>
 – 1 Módulo Relé 5V 10A 1 Canal com Optoacoplador;
+</p>
 – 1 Fonte de Alimentação Chaveada 12VDC 1A;
+</p>
 – 1 Fonte de Alimentação para Arduino 9VDC 1A;
+</p>
 – 1 Adaptador Fêmea com Bornes para plug P4 (2,1×5,5mm);
+</p>
 – ½ Metro de Fio Paralelo 0,5mm;
+</p>
 – 1,5 Metros de Mangueira para Aquário;
+</p>
 – Jumpers.
 
 
