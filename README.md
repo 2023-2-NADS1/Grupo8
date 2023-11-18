@@ -70,7 +70,7 @@ Há também 4 pastas que seguem da seguinte forma:
 </p>
 –<a href="https://www.usinainfo.com.br/fonte-chaveada-usb-e-p4/fonte-de-alimentacao-para-arduino-9vdc-1a-plug-p4-2424.html"> 1 Fonte de Alimentação para Arduino 9VDC 1A.
 </p>
-–<a href="https://www.usinainfo.com.br/conectores-e-adaptadores/jack-p4-femea-com-borne-a-parafuso-21x55mm-2843.html1"> Adaptador Fêmea com Bornes para plug P4 (2,1×5,5mm).
+–<a href="https://www.usinainfo.com.br/conectores-e-adaptadores/jack-p4-femea-com-borne-a-parafuso-21x55mm-2843.html"> Adaptador Fêmea com Bornes para plug P4 (2,1×5,5mm).
 </p>
 – ½ Metro de Fio Paralelo 0,5mm.
 </p>
