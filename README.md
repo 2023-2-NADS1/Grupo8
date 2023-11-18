@@ -59,6 +59,7 @@ Há também 4 pastas que seguem da seguinte forma:
 ## 🛠 Equipamentos Utilizados no Projeto Arduino de Irrigação:
 
 – 1 Arduino Uno R3 + Cabo USB;
+</p>
 – 1 Sensor de Umidade de Solo para Arduino;
 – 1 Mini Bomba de Água (d’água) para Arduino RS-385;
 – 1 Módulo Relé 5V 10A 1 Canal com Optoacoplador;
