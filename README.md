@@ -80,8 +80,9 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 * <a href="https://blynk.io/"> Blynk
 
 ## 🗃 Histórico de lançamentos
-
-* 0.2.1 - 17/11/2023
+* 0.3.0 - 17/11/2023
+    * Finalização do Projeto
+* 0.2.1 - 16/11/2023
     * Criação do Boot
 * 0.1.1 - 07/11/2023
     * Começo da montagem física do projeto   
