@@ -6,7 +6,7 @@
 
 # Sistema de Irrigação Automática 🌱
 <p align="center">
-<a href= ""><img src="https://ibb.co/G7W1hZq" alt="" border="0"></a>
+<a href= ""><img src="https://i.ibb.co/VVghKFs/68-CB19-A6-1967-4-C93-B3-BF-F11-C3518-B0-A1.jpg" alt="" border="0"></a>
 </p>
 
 # Inovação
