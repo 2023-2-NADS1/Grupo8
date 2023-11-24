@@ -9,7 +9,7 @@
 <a href= ""><img src="https://i.ibb.co/VVghKFs/68-CB19-A6-1967-4-C93-B3-BF-F11-C3518-B0-A1.jpg" alt="" border="0"></a>
 </p>
 
-# Inovação
+# Grupo Inovação
 
 </p>
 
@@ -30,17 +30,9 @@ O projeto "Sistema de Irrigação Automática" tem como objetivo desenvolver um 
 
 -Raiz<br>
 |<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
 |readme.md<br>
 
 
