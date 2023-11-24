@@ -1,49 +1,60 @@
-#define BLYNK_TEMPLATE_ID "TMPL2jTF0Rq-w"
-#define BLYNK_TEMPLATE_NAME "Irrigação Automatica"
-#define BLYNK_AUTH_TOKEN "9eAlpggoLWLjNWWfej7OkL_-EjZWQLPd"
+// Definição de informações do projeto no Blynk
+#define BLYNK_TEMPLATE_ID "ID do projeto"
+#define BLYNK_TEMPLATE_NAME "Nome do projeto"
+#define BLYNK_AUTH_TOKEN "Token do projeto"
 
+// Configuração da saída de depuração para o Serial
 #define BLYNK_PRINT Serial
 
+// Definição do pino do sensor no aplicativo Blynk
 #define vSensor V1
 
+// Inclusão de bibliotecas necessárias
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-const char ssid[] = "Nome do Servidor";
-const char pass[] = "Senha do Servidor";
+// Configuração das credenciais Wi-Fi
+const char ssid[] = "Nome do servidor Wi-Fi";
+const char pass[] = "Senha do servidor Wi-Fi";
 
-const int pinoAnalog = A0;
-const int pinoRele = 5;
-const int pino5V = 3.3;
+// Configuração dos pinos no microcontrolador
+const int pinoAnalog = A0;  // Pino de entrada analógica para o sensor
+const int pinoRele = 5;     // Pino de controle do relé para irrigação
+const int pino5V = 3.3;      // Pino de controle da alimentação de 5V (NodeMCU)
 
+// Definição de valores máximos e mínimos para o sensor analógico e percentual
 const int analogMaxValue = 1023;
 const int analogMinValue = 0;
 const int percentageMax = 100;
 const int percentageMin = 0;
 
+// Objeto do tipo BlynkTimer para agendar tarefas
 BlynkTimer timer;
 
-void setup() {
-  Serial.begin(9600);
 
-  // Inicialização do Blynk
+void setup() {
+  Serial.begin(9600);  // Inicialização da comunicação serial para depuração
+
+  // Inicialização da comunicação com o servidor Blynk
   Blynk.begin(BLYNK_AUTH_TOKEN, ssid, pass, "blynk.cloud", 80);
 
-  // Configuração de pinos
+  // Configuração dos pinos como entrada ou saída
   pinMode(pinoAnalog, INPUT);
   pinMode(pinoRele, OUTPUT);
   pinMode(pino5V, OUTPUT);
-  digitalWrite(pino5V, HIGH);
+  digitalWrite(pino5V, HIGH);  // Ativação da alimentação de 5V
 }
 
+
 void loop() {
-  Blynk.run();
-  timer.run();
+  Blynk.run();   // Executa a comunicação Blynk
+  timer.run();   // Executa as tarefas agendadas
 
   // Leitura do sensor analógico
   int valAnalogIn = analogRead(pinoAnalog);
   int percent = map(valAnalogIn, analogMaxValue, analogMinValue, percentageMin, percentageMax);
 
+  // Exibição do percentual no monitor serial e envio para o aplicativo Blynk
   Serial.print(percent);
   Serial.println("%");
   Blynk.virtualWrite(vSensor, percent);
@@ -52,7 +63,7 @@ void loop() {
   if (percent <= 45) {
     Serial.println("Irrigando a planta...");
     digitalWrite(pinoRele, HIGH);
-    Blynk.logEvent("irrigando_planta", "A planta está sendo irrigada...");
+    Blynk.logEvent("irrigando_planta", "A planta está sendo irrigada...");  // Log de evento no Blynk
   } else {
     Serial.println("Planta Irrigada...");
     digitalWrite(pinoRele, LOW);
