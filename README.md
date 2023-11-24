@@ -46,7 +46,8 @@ O projeto "Sistema de Irrigação Automática" tem como objetivo desenvolver um 
 * <a href="https://www.usinainfo.com.br/fonte-chaveada-usb-e-p4/fonte-de-alimentacao-chaveada-12vdc-1a-plug-p4-3082.html"> Fonte de Alimentação Chaveada 12VDC 1A.
 * <a href="https://www.usinainfo.com.br/conectores-e-adaptadores/jack-p4-femea-com-borne-a-parafuso-21x55mm-2843.html"> Adaptador Fêmea com Bornes para plug P4 (2,1×5,5mm).
 * <a href="https://www.cobasi.com.br/mangueira-para-aquario-com-2metros-tudopet-3181501/p?idsku=181501&gad_source=1&gclid=CjwKCAiAu9yqBhBmEiwAHTx5p7SeUBqKvLW97zLq3_dtW-qRsniflc6gkQ2er7mXgmeEsi1oVY2oKBoC0FEQAvD_BwE"> 1,5 Metros de Mangueira para Aquário.
-*  <a href="https://www.usinainfo.com.br/jumper/mix-de-jumpers-premium-sortidos-20cm-kit-com-15-pecas-6066.html"> Jumpers.
+* <a href="https://www.usinainfo.com.br/protoboard/protoboard-400-pontos-para-montagem-de-projetos-2323.html"> Protoboard de 400 pontos.
+* <a href="https://www.usinainfo.com.br/jumper/mix-de-jumpers-premium-sortidos-20cm-kit-com-15-pecas-6066.html"> Jumpers.
 
 
 
