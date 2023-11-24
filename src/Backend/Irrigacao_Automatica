@@ -1,0 +1,60 @@
+#define BLYNK_TEMPLATE_ID "TMPL2jTF0Rq-w"
+#define BLYNK_TEMPLATE_NAME "Irrigação Automatica"
+#define BLYNK_AUTH_TOKEN "9eAlpggoLWLjNWWfej7OkL_-EjZWQLPd"
+
+#define BLYNK_PRINT Serial
+
+#define vSensor V1
+
+#include <ESP8266WiFi.h>
+#include <BlynkSimpleEsp8266.h>
+
+const char ssid[] = "Nome do Servidor";
+const char pass[] = "Senha do Servidor";
+
+const int pinoAnalog = A0;
+const int pinoRele = 5;
+const int pino5V = 3.3;
+
+const int analogMaxValue = 1023;
+const int analogMinValue = 0;
+const int percentageMax = 100;
+const int percentageMin = 0;
+
+BlynkTimer timer;
+
+void setup() {
+  Serial.begin(9600);
+
+  // Inicialização do Blynk
+  Blynk.begin(BLYNK_AUTH_TOKEN, ssid, pass, "blynk.cloud", 80);
+
+  // Configuração de pinos
+  pinMode(pinoAnalog, INPUT);
+  pinMode(pinoRele, OUTPUT);
+  pinMode(pino5V, OUTPUT);
+  digitalWrite(pino5V, HIGH);
+}
+
+void loop() {
+  Blynk.run();
+  timer.run();
+
+  // Leitura do sensor analógico
+  int valAnalogIn = analogRead(pinoAnalog);
+  int percent = map(valAnalogIn, analogMaxValue, analogMinValue, percentageMin, percentageMax);
+
+  Serial.print(percent);
+  Serial.println("%");
+  Blynk.virtualWrite(vSensor, percent);
+
+  // Controle da irrigação com base no percentual
+  if (percent <= 45) {
+    Serial.println("Irrigando a planta...");
+    digitalWrite(pinoRele, HIGH);
+    Blynk.logEvent("irrigando_planta", "A planta está sendo irrigada...");
+  } else {
+    Serial.println("Planta Irrigada...");
+    digitalWrite(pinoRele, LOW);
+  }
+}
