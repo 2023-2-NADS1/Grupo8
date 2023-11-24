@@ -40,6 +40,7 @@ O projeto "Sistema de Irrigação Automática" tem como objetivo desenvolver um 
 
 * <a href="https://www.usinainfo.com.br/cabo-flexivel/cabo-flexivel-paralelo-1m-2x050mm2-20-awg-6063.html"> Cabo Flexível Paralelo.
 * <a href="https://www.usinainfo.com.br/sensor-de-solo/sensor-de-umidade-de-solo-hl-69-para-arduino-2311.html"> Sensor de Umidade de Solo para Arduino.
+* <a href="https://www.usinainfo.com.br/nodemcu/nodemcu-v3-esp8266-esp-12e-iot-com-wifi-4420.html"> ESP8266 Nodemcu.
 * <a href="https://www.usinainfo.com.br/bombinha-de-agua-e-ar/mini-bomba-de-agua-para-arduino-12v-rs385-2lmin-2814.html"> Mini Bomba de Água (d’água) para Arduino RS-385.
 * <a href="https://www.usinainfo.com.br/rele-arduino/modulo-rele-5v-10a-1-canal-com-optoacoplador-para-esp32-e-arduino-2533.html"> Módulo Relé 5V 10A 1 Canal com Optoacoplador.
 * <a href="https://www.usinainfo.com.br/fonte-chaveada-usb-e-p4/fonte-de-alimentacao-chaveada-12vdc-1a-plug-p4-3082.html"> Fonte de Alimentação Chaveada 12VDC 1A.
